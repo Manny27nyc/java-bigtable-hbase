@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.26.2](https://www.github.com/googleapis/java-bigtable-hbase/compare/v1.26.1...v1.26.2) (2021-12-18)
+
+
+### Dependencies
+
+* log4j 2.17.0 ([#3405](https://www.github.com/googleapis/java-bigtable-hbase/issues/3405)) ([0675ffb](https://www.github.com/googleapis/java-bigtable-hbase/commit/0675ffbaf1d47346034bafe23867e27f353dc52f))
+
 ### [1.26.1](https://www.github.com/googleapis/java-bigtable-hbase/compare/v1.26.0...v1.26.1) (2021-12-14)
 
 
