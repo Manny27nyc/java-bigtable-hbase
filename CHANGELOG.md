@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.0-beta6](https://www.github.com/googleapis/java-bigtable-hbase/compare/v2.0.0-beta5...v2.0.0-beta6) (2021-12-23)
+
+
+### Miscellaneous Chores
+
+* bump tag to 2.0.0-beta6 ([#3407](https://www.github.com/googleapis/java-bigtable-hbase/issues/3407)) ([5d2ab98](https://www.github.com/googleapis/java-bigtable-hbase/commit/5d2ab98309b62ee2268dbe106002e62a7829c61c))
+
+
+### Dependencies
+
+* log4j 2.17.0 ([#3404](https://www.github.com/googleapis/java-bigtable-hbase/issues/3404)) ([08a5ebc](https://www.github.com/googleapis/java-bigtable-hbase/commit/08a5ebc4c9f15fb98d74171ca7450d43b4f2f3f1))
+* update dependency net.bytebuddy:byte-buddy to v1.12.6 ([#3348](https://www.github.com/googleapis/java-bigtable-hbase/issues/3348)) ([6835f7b](https://www.github.com/googleapis/java-bigtable-hbase/commit/6835f7bffd6c5776c1b4310e4bc372fddd5b9864))
+* update jmh.version to v1.34 ([#3415](https://www.github.com/googleapis/java-bigtable-hbase/issues/3415)) ([16077d2](https://www.github.com/googleapis/java-bigtable-hbase/commit/16077d2fa53599bf9de1a7a9e90200d0355fb910))
+
 ## [2.0.0-beta5](https://www.github.com/googleapis/java-bigtable-hbase/compare/v2.0.0-beta4...v2.0.0-beta5) (2021-12-15)
 
 **Note: This beta release is a work-in-progress. For the latest stable release of java-bigtable-hbase, please refer to version [1.26.1](https://github.com/googleapis/java-bigtable-hbase/releases/tag/v1.26.1).**
