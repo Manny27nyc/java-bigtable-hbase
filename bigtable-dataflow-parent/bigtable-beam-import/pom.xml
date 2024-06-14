@@ -213,7 +213,7 @@ limitations under the License.
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>31.0-jre</version>
+      <version>32.0.0-jre</version>
     </dependency>
     <dependency>
       <groupId>commons-logging</groupId>
@@ -243,7 +243,7 @@ limitations under the License.
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
-      <version>1.21</version>
+      <version>1.26.0</version>
       <scope>runtime</scope>
     </dependency>
 
